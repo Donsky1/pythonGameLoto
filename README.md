@@ -1,5 +1,6 @@
 # pythonGameLoto
 game Loto with several setting
+
 ![image](https://user-images.githubusercontent.com/63307876/160230998-f1f814a9-0eb0-491f-b235-28fdc8032f21.png)
 
 проект ""Игра лото""
