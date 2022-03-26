@@ -34,7 +34,7 @@ def play_game_mode(choice_second):
         print('Неверный пункт меню')
 
 
-# игра
+# запускает игру
 while True:
     main_menu()
     choice = input('Выберете пункт меню: ')
